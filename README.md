@@ -14,10 +14,13 @@ http://localhost/crud-ajax
 ```
     
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/crud_pdo_ajax/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/crud_pdo_ajax/main/Screenshots/Output-02.png)
-![](https://raw.githubusercontent.com/codehafeez/crud_pdo_ajax/main/Screenshots/Output-03.png)
-![](https://raw.githubusercontent.com/codehafeez/crud_pdo_ajax/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-1.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-2.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-3.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-4.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-5.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-6.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax/main/Screenshots/Output-7.png)
 
 
 ## 🔗 www.codehafeez.com
